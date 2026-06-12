@@ -65,4 +65,3 @@ elif choice == "5":
 else:  
     print("Invalid choice. Try again.")
 
-Yah code lag raha hai na aapki normal exercise
